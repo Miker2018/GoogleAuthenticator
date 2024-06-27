@@ -1,5 +1,5 @@
 {
-    "name": "phpgangsta/googleauthenticator",
+    "name": "miker2018/googleauthenticator",
     "description": "Google Authenticator 2-factor authentication",
     "version": "1.0.0",
     "type": "library",
@@ -21,7 +21,7 @@
         "php": ">=5.3"
     },
 	"autoload": {
-		"classmap": ["PHPGangsta/GoogleAuthenticator.php"]
+		"classmap": ["Miker2018/GoogleAuthenticator.php"]
 	}
 }
 
