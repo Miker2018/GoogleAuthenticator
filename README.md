@@ -22,7 +22,7 @@ See following example:
 
 ```php
 <?php
-require_once 'PHPGangsta/GoogleAuthenticator.php';
+require_once 'Miker2018/GoogleAuthenticator.php';
 
 $ga = new PHPGangsta_GoogleAuthenticator();
 $secret = $ga->createSecret();

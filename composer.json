@@ -21,7 +21,7 @@
         "php": ">=5.3"
     },
 	"autoload": {
-		"classmap": ["GoogleAuthenticator.php"]
+		"classmap": ["Miker2018/GoogleAuthenticator.php"]
 	}
 }
 
